@@ -1,0 +1,4 @@
+{
+	"nombre" : "prueba",
+	"version" : "1"
+}
